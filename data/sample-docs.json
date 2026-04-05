@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "Azure AI Search la gi",
+    "category": "Tong quan",
+    "content": "Azure AI Search la dich vu tim kiem tren cloud cua Microsoft. Dich vu nay ho tro full text search, semantic ranking, filter, faceting va kha nang mo rong de phuc vu ung dung doanh nghiep.",
+    "tags": ["azure", "search", "semantic"],
+    "url": "https://learn.microsoft.com/azure/search/"
+  },
+  {
+    "id": "2",
+    "title": "Khi nao nen dung semantic search",
+    "category": "Huong dan",
+    "content": "Semantic search phu hop khi nguoi dung dat cau hoi tu nhien va ban muon ket qua duoc xep hang theo y nghia thay vi chi theo tu khoa. Semantic captions va answers giup giao dien de doc hon.",
+    "tags": ["semantic", "ranking", "ux"],
+    "url": "https://learn.microsoft.com/azure/search/semantic-search-overview"
+  },
+  {
+    "id": "3",
+    "title": "Dung RBAC de ket noi keyless",
+    "category": "Bao mat",
+    "content": "Trong moi truong phat trien local, ban co the dung az login de xac thuc voi Azure. Ung dung Python co the lay token thong qua DefaultAzureCredential ma khong can hardcode API key.",
+    "tags": ["rbac", "entra", "security"],
+    "url": "https://learn.microsoft.com/azure/search/search-get-started-rbac"
+  },
+  {
+    "id": "4",
+    "title": "Index can co gi",
+    "category": "Ky thuat",
+    "content": "Mot index Azure AI Search thuong dinh nghia cac field key, searchable, filterable va facetable. Neu muon dung semantic search, ban nen cau hinh semantic configuration voi title, content va keyword fields.",
+    "tags": ["index", "schema", "semantic"],
+    "url": "https://learn.microsoft.com/azure/search/search-how-to-create-search-index"
+  },
+  {
+    "id": "5",
+    "title": "So sanh simple search va semantic search",
+    "category": "Huong dan",
+    "content": "Simple search nhanh va don gian cho truy van tu khoa. Semantic search tang chat luong xep hang, captions va answers nhung doi hoi index duoc cau hinh semantic va co goi dich vu phu hop.",
+    "tags": ["simple", "semantic", "comparison"],
+    "url": "https://learn.microsoft.com/azure/search/search-get-started-vector"
+  }
+]

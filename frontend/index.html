@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Azure AI Search Starter</title>
+    <link rel="stylesheet" href="/assets/styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <section class="hero">
+        <p class="eyebrow">Azure AI Search Demo</p>
+        <h1>Thu nghiem semantic search trong vai phut</h1>
+        <p class="lede">
+          Giao dien nay goi backend FastAPI, backend ket noi Azure AI Search bang API key hoac
+          Entra ID.
+        </p>
+      </section>
+
+      <section class="panel search-panel">
+        <form id="search-form">
+          <label class="field">
+            <span>Tu khoa</span>
+            <input id="query" name="query" type="text" value="azure ai search" placeholder="Nhap noi dung can tim" />
+          </label>
+
+          <div class="row">
+            <label class="field compact">
+              <span>Che do</span>
+              <select id="mode" name="mode">
+                <option value="semantic">Semantic</option>
+                <option value="simple">Simple</option>
+              </select>
+            </label>
+
+            <label class="field compact">
+              <span>So ket qua</span>
+              <input id="top" name="top" type="number" min="1" max="20" value="5" />
+            </label>
+          </div>
+
+          <button type="submit">Search ngay</button>
+        </form>
+      </section>
+
+      <section class="grid">
+        <div class="panel">
+          <h2>Cau tra loi AI</h2>
+          <div id="answers" class="stack empty">Chua co du lieu.</div>
+        </div>
+
+        <div class="panel">
+          <h2>Ket qua</h2>
+          <div id="results" class="stack empty">Chua co ket qua.</div>
+        </div>
+      </section>
+    </main>
+
+    <script src="/assets/app.js" defer></script>
+  </body>
+  </html>
+

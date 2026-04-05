@@ -1,0 +1,17 @@
+[project]
+name = "azure-ai-search-starter"
+version = "0.1.0"
+description = "Starter app to try Azure AI Search with a simple frontend and FastAPI backend."
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "aiohttp>=3.11.0",
+    "azure-identity>=1.19.0",
+    "azure-search-documents>=11.6.0",
+    "fastapi>=0.115.0",
+    "python-dotenv>=1.0.1",
+    "uvicorn[standard]>=0.32.0",
+]
+
+[tool.uv]
+package = false

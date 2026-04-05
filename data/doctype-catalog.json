@@ -1,0 +1,445 @@
+[
+  {
+    "id": "A-03",
+    "code": "A-03",
+    "file_name": "A-03 Permits-Approvals.docx",
+    "document_title": "Permits / Approvals",
+    "group_name": "Authorities Report",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Confirms code compliance for repair work by tracking building permits issued by local authority.",
+    "key_sections": [
+      "Permit number",
+      "Issuing authority",
+      "Permit type",
+      "Status tracking",
+      "Inspection log",
+      "Compliance confirmation"
+    ],
+    "notes_requirements": "Required before work starts; attach permit copy and approval letters.",
+    "search_text": "A-03 Permits / Approvals Authorities Report All - Generic confirms code compliance for repair work by tracking building permits issued by local authority permit number issuing authority permit type status tracking inspection log compliance confirmation required before work starts attach permit copy and approval letters"
+  },
+  {
+    "id": "G-03a",
+    "code": "G-03a",
+    "file_name": "G-03 Certificate-of-occupancy.docx",
+    "document_title": "Certificate of Occupancy",
+    "group_name": "Authorities Report",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Official authority document confirming the property is legally authorised for occupancy.",
+    "key_sections": [
+      "Issuing authority",
+      "Certificate number",
+      "Property address",
+      "Occupancy class"
+    ],
+    "notes_requirements": "Template to be completed with actual certificate details.",
+    "search_text": "G-03a Certificate of Occupancy Authorities Report All - Generic official authority document confirming the property is legally authorised for occupancy issuing authority certificate number property address occupancy class template to be completed with actual certificate details"
+  },
+  {
+    "id": "L-03",
+    "code": "L-03",
+    "file_name": "L-03 Property-Damage-incident-report-form.docx",
+    "document_title": "Property Damage Incident Report",
+    "group_name": "Authorities Report",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Official incident report filed at the time of loss documenting the damage event.",
+    "key_sections": [
+      "Incident date and time",
+      "Location",
+      "Cause",
+      "Witnesses",
+      "Description of damage"
+    ],
+    "notes_requirements": "Template; attach official copy from relevant authority.",
+    "search_text": "L-03 Property Damage Incident Report Authorities Report All - Generic official incident report filed at the time of loss documenting the damage event incident date time location cause witnesses description of damage template attach official copy from relevant authority"
+  },
+  {
+    "id": "L-04",
+    "code": "L-04",
+    "file_name": "L-04 Fire-Incident-Report.docx",
+    "document_title": "Fire Incident Report",
+    "group_name": "Authorities Report",
+    "claim_types": ["Fire / Smoke / Explosion"],
+    "purpose_description": "Official fire department report confirming the cause and extent of a fire incident.",
+    "key_sections": [
+      "Fire brigade reference",
+      "Incident date and time",
+      "Cause of fire",
+      "Affected areas"
+    ],
+    "notes_requirements": "Template; attach signed copy from fire authority.",
+    "search_text": "L-04 Fire Incident Report Authorities Report Fire Smoke Explosion official fire department report confirming the cause and extent of a fire incident fire brigade reference incident date time cause of fire affected areas template attach signed copy from fire authority"
+  },
+  {
+    "id": "G-02",
+    "code": "G-02",
+    "file_name": "G-02 Sample_home_Dec_page.pdf",
+    "document_title": "Homeowners Declarations Page (Sample)",
+    "group_name": "Authorities Report",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Insurance policy declarations page showing coverage limits, deductibles, and endorsements.",
+    "key_sections": [
+      "Policy number",
+      "Coverage period",
+      "Coverages A-F limits and deductibles",
+      "Discounts",
+      "Mortgagee details"
+    ],
+    "notes_requirements": "Sample reference document; actual policy declarations page must be substituted for live claim.",
+    "search_text": "G-02 Homeowners Declarations Page Sample Authorities Report All - Generic insurance policy declarations page showing coverage limits deductibles and endorsements policy number coverage period coverages A-F limits deductibles discounts mortgagee details sample reference document actual policy declarations page must be substituted for live claim"
+  },
+  {
+    "id": "L-05",
+    "code": "L-05",
+    "file_name": "L-05 Trade-Report-(Plumber:Electrician).docx",
+    "document_title": "Trade Report - Plumber / Electrician",
+    "group_name": "Trade Report",
+    "claim_types": ["Water - Escape of Water", "Electrical", "Appliance Failure"],
+    "purpose_description": "Validates cause of loss and assesses subrogation potential via licensed trade professional inspection.",
+    "key_sections": [
+      "Component failure identification",
+      "Root cause analysis",
+      "Cause classification covered or excluded",
+      "Subrogation assessment",
+      "Repair recommendation"
+    ],
+    "notes_requirements": "SLA T+5 days; retain failed component for subrogation evidence.",
+    "search_text": "L-05 Trade Report Plumber Electrician Trade Report Water Escape of Water Electrical Appliance Failure validates cause of loss and assesses subrogation potential via licensed trade professional inspection component failure identification root cause analysis cause classification covered excluded subrogation assessment repair recommendation SLA T+5 days retain failed component for subrogation evidence"
+  },
+  {
+    "id": "L-06",
+    "code": "L-06",
+    "file_name": "L-06 Leak-Detection-Report.docx",
+    "document_title": "Leak Detection Report",
+    "group_name": "Trade Report",
+    "claim_types": ["Water - Escape of Water"],
+    "purpose_description": "Identifies non-obvious water intrusion source using specialist detection tools and moisture mapping.",
+    "key_sections": [
+      "Moisture readings by room",
+      "Leak source identification",
+      "Cause correlation linked to L-05",
+      "Mitigation scope impact"
+    ],
+    "notes_requirements": "SLA T+5 days; links to M-series mitigation documents; uses thermal imaging and acoustic detection.",
+    "search_text": "L-06 Leak Detection Report Trade Report Water Escape of Water identifies non-obvious water intrusion source using specialist detection tools and moisture mapping moisture readings by room leak source identification cause correlation linked to L-05 mitigation scope impact SLA T+5 days links to M-series mitigation docs uses thermal imaging acoustic detection"
+  },
+  {
+    "id": "A-01",
+    "code": "A-01",
+    "file_name": "A-01 Contractor-Esitmate-Scope.docx",
+    "document_title": "Contractor Estimate & Scope",
+    "group_name": "Valuation / Repair Estimate",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Defines scope of repair work and provides line-item cost estimate for structural damage.",
+    "key_sections": [
+      "Scope of work",
+      "Detailed line-item estimate",
+      "Measurements and quantities",
+      "Materials specification",
+      "Labour breakdown",
+      "Cost summary",
+      "Timeline"
+    ],
+    "notes_requirements": "Core claim document; must align with A-02 Engineer Report; basis for ACV and RCV settlement.",
+    "search_text": "A-01 Contractor Estimate Scope Valuation Repair Estimate All - Generic defines scope of repair work and provides line-item cost estimate for structural damage scope of work detailed line-item estimate measurements quantities materials specification labour breakdown cost summary timeline core claim document must align with A-02 Engineer Report basis for ACV RCV settlement"
+  },
+  {
+    "id": "A-05",
+    "code": "A-05",
+    "file_name": "A-05 Pre-loss-Renovation-Records.docx",
+    "document_title": "Pre-Loss Renovation Records",
+    "group_name": "Valuation / Repair Estimate",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Establishes pre-loss material grade and finish to support Replacement Cost Value claim.",
+    "key_sections": [
+      "Renovation area and type",
+      "Materials and finishes",
+      "Cost summary",
+      "Timeline",
+      "Supporting receipts and contracts"
+    ],
+    "notes_requirements": "Critical for high-grade finishes; attach invoices, product specifications and pre-loss photos.",
+    "search_text": "A-05 Pre-Loss Renovation Records Valuation Repair Estimate All - Generic establishes pre-loss material grade and finish to support replacement cost value claim renovation area type materials finishes cost summary timeline supporting receipts contracts critical for high-grade finishes attach invoices product specs and pre-loss photos"
+  },
+  {
+    "id": "C-03",
+    "code": "C-03",
+    "file_name": "C-03 Appraisals-Scheduled-items.docx",
+    "document_title": "Appraisals - Scheduled Items",
+    "group_name": "Valuation / Repair Estimate",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Establishes agreed or replacement value for high-value items scheduled on the policy.",
+    "key_sections": [
+      "Scheduled item reference",
+      "Appraisal date and value",
+      "Valuation basis",
+      "Appraiser credentials",
+      "Policy alignment check"
+    ],
+    "notes_requirements": "Must be signed by certified appraiser; check scheduled value matches policy endorsement.",
+    "search_text": "C-03 Appraisals Scheduled Items Valuation Repair Estimate All - Generic establishes agreed or replacement value for high-value items scheduled on the policy scheduled item reference appraisal date value valuation basis appraiser credentials policy alignment check must be signed by certified appraiser check scheduled value matches policy endorsement"
+  },
+  {
+    "id": "C-04",
+    "code": "C-04",
+    "file_name": "C-04 Repair-Quotes(Salvageable items).docx",
+    "document_title": "Repair Quotes - Salvageable Items",
+    "group_name": "Valuation / Repair Estimate",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Supports repair-vs-replace decision for damaged contents via independent technician quote.",
+    "key_sections": [
+      "Diagnostic findings",
+      "Repair quote line items",
+      "RCV comparison",
+      "Repair as percentage of RCV",
+      "Recommendation"
+    ],
+    "notes_requirements": "Linked to C-01 inventory; repair exceeding economic threshold triggers replacement.",
+    "search_text": "C-04 Repair Quotes Salvageable Items Valuation Repair Estimate All - Generic supports repair-vs-replace decision for damaged contents via independent technician quote diagnostic findings repair quote line items RCV comparison repair as percentage of RCV recommendation linked to C-01 inventory repair exceeding economic threshold triggers replacement"
+  },
+  {
+    "id": "E-01",
+    "code": "E-01",
+    "file_name": "E-01 Scheduled-Jewelry-Appraisals.docx",
+    "document_title": "Scheduled Jewelry Appraisals",
+    "group_name": "Valuation / Repair Estimate",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Confirms scheduled value of jewelry items via certified gemologist appraisal.",
+    "key_sections": [
+      "Jewelry item details",
+      "Appraisal date and value",
+      "GIA or IGI certificates",
+      "Policy schedule alignment"
+    ],
+    "notes_requirements": "Must include gemstone certificates; appraiser should hold recognised certification such as GIA.",
+    "search_text": "E-01 Scheduled Jewelry Appraisals Valuation Repair Estimate All - Generic confirms scheduled value of jewelry items via certified gemologist appraisal jewelry item details appraisal date value GIA IGI certificates policy schedule alignment must include gemstone certificates appraiser should hold recognised certification such as GIA"
+  },
+  {
+    "id": "H-02",
+    "code": "H-02",
+    "file_name": "H-02 Renovation-Improvement.docx",
+    "document_title": "Renovation / Improvement Records",
+    "group_name": "Valuation / Repair Estimate",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Validates betterments and material grade to support like-kind-quality replacement.",
+    "key_sections": [
+      "Improvement area and type",
+      "Materials and specifications",
+      "Cost breakdown",
+      "Relation to current damaged area"
+    ],
+    "notes_requirements": "Attach invoices, contracts, product specifications and pre-loss photos; used to justify premium material claims.",
+    "search_text": "H-02 Renovation Improvement Records Valuation Repair Estimate All - Generic validates betterments and material grade to support like-kind-quality replacement improvement area type materials specifications cost breakdown relation to current damaged area attach invoices contracts product specs and pre-loss photos used to justify premium material claims"
+  },
+  {
+    "id": "A-04",
+    "code": "A-04",
+    "file_name": "A-04 Repair-Invoices-Proof-Of-Payment.docx",
+    "document_title": "Repair Invoices & Proof of Payment",
+    "group_name": "Invoices",
+    "claim_types": ["All - Generic", "Wind - Hail - Weather"],
+    "purpose_description": "Verifies completion of repairs and confirms payment made for depreciation recovery.",
+    "key_sections": [
+      "Invoice number",
+      "Itemised repair charges",
+      "Cost summary",
+      "Payment method and proof",
+      "Holdback or depreciation recovery"
+    ],
+    "notes_requirements": "Mark invoices PAID; required to trigger recoverable depreciation release and links to P-03.",
+    "search_text": "A-04 Repair Invoices Proof of Payment Invoices All - Generic Wind Hail Weather verifies completion of repairs and confirms payment made for depreciation recovery invoice number itemised repair charges cost summary payment method proof holdback depreciation recovery mark invoices PAID required to trigger recoverable depreciation release links to P-03"
+  },
+  {
+    "id": "M-01",
+    "code": "M-01",
+    "file_name": "M-01 Mitigation-Authorization-Work-Order.docx",
+    "document_title": "Mitigation Authorisation / Work Order",
+    "group_name": "Invoices",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Confirms authorisation of emergency mitigation vendor and scope of emergency-only services.",
+    "key_sections": [
+      "Emergency services authorised",
+      "Work schedule start and end times",
+      "Equipment and resources",
+      "Cost acknowledgement"
+    ],
+    "notes_requirements": "SLA T+1 day; authorisation limited to emergency mitigation; reconstruction requires separate approval.",
+    "search_text": "M-01 Mitigation Authorisation Work Order Invoices All - Generic confirms authorisation of emergency mitigation vendor and scope of emergency-only services emergency services authorised work schedule start end times equipment resources cost acknowledgement SLA T+1 day authorisation limited to emergency mitigation reconstruction requires separate approval"
+  },
+  {
+    "id": "M-03",
+    "code": "M-03",
+    "file_name": "M-03 Mitigation-Invoice.docx",
+    "document_title": "Mitigation Invoice",
+    "group_name": "Invoices",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Supports payment for mitigation services with itemised labour, equipment and material charges.",
+    "key_sections": [
+      "Invoice number",
+      "Itemised charges",
+      "Equipment and labour breakdown",
+      "Total amount due",
+      "Bank payment details"
+    ],
+    "notes_requirements": "Must attach M-02 daily logs and photos; cross-reference with M-01 work order.",
+    "search_text": "M-03 Mitigation Invoice Invoices All - Generic supports payment for mitigation services with itemised labour equipment and material charges invoice number itemised charges equipment labour breakdown total amount due bank payment details must attach M-02 daily logs and photos cross-reference with M-01 work order"
+  },
+  {
+    "id": "M-04",
+    "code": "M-04",
+    "file_name": "M-04 Temporary-Repair-Receipts.docx",
+    "document_title": "Temporary Repair Receipts",
+    "group_name": "Invoices",
+    "claim_types": ["Fire - Smoke - Explosion", "Wind - Hail - Weather"],
+    "purpose_description": "Supports reimbursement of emergency temporary repair costs such as tarping, board-up, and sealing.",
+    "key_sections": [
+      "Type of temporary repairs",
+      "Vendor or purchase details",
+      "Itemised receipt",
+      "Total amount claimed"
+    ],
+    "notes_requirements": "Receipts must be dated; retain originals; covers only emergency protective repairs post-loss.",
+    "search_text": "M-04 Temporary Repair Receipts Invoices Fire Smoke Explosion Wind Hail Weather supports reimbursement of emergency temporary repair costs such as tarping board-up sealing type of temporary repairs vendor purchase details itemised receipt total amount claimed receipts must be dated retain originals covers only emergency protective repairs post-loss"
+  },
+  {
+    "id": "A-02",
+    "code": "A-02",
+    "file_name": "A-02 Engineer-Structural-Report.docx",
+    "document_title": "Engineer / Structural Report",
+    "group_name": "Engineer Report",
+    "claim_types": ["Wind - Hail - Weather"],
+    "purpose_description": "Provides independent structural safety assessment and professional cause-of-damage determination.",
+    "key_sections": [
+      "Scope of inspection",
+      "Structural findings",
+      "Load analysis",
+      "Cause of damage",
+      "Safety assessment",
+      "Corrective action recommendations"
+    ],
+    "notes_requirements": "Must be signed and stamped by licensed structural or civil engineer; links to A-01 contractor scope.",
+    "search_text": "A-02 Engineer Structural Report Engineer Report Wind Hail Weather provides independent structural safety assessment and professional cause-of-damage determination scope of inspection structural findings load analysis cause of damage safety assessment corrective action recommendations must be signed stamped by licensed structural civil engineer links to A-01 contractor scope"
+  },
+  {
+    "id": "E-04",
+    "code": "E-04",
+    "file_name": "E-04 Environmental-Mold-Test-Report.docx",
+    "document_title": "Environmental / Mold Test Report",
+    "group_name": "Engineer Report",
+    "claim_types": ["All - Generic", "Water / Mold Claims"],
+    "purpose_description": "Determines contamination scope and health risk level via certified environmental testing.",
+    "key_sections": [
+      "Sampling details and chain of custody",
+      "Test results by area",
+      "Contamination extent and type",
+      "Health risk level",
+      "Remediation recommendations"
+    ],
+    "notes_requirements": "Chain-of-custody mandatory; lab results required; triggers remediation scope in M-series.",
+    "search_text": "E-04 Environmental Mold Test Report Engineer Report All - Generic Water Mold Claims determines contamination scope and health risk level via certified environmental testing sampling details chain of custody test results by area contamination extent type health risk level remediation recommendations chain-of-custody mandatory lab results required triggers remediation scope in M-series"
+  },
+  {
+    "id": "H-01",
+    "code": "H-01",
+    "file_name": "H-01 Prior-Inspection-Reports.docx",
+    "document_title": "Prior Inspection Reports",
+    "group_name": "Engineer Report",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Establishes pre-loss property condition to differentiate prior damage from current claim.",
+    "key_sections": [
+      "Inspection type and date",
+      "Inspector credentials",
+      "Findings summary",
+      "Pre-existing conditions",
+      "Comparison to current loss"
+    ],
+    "notes_requirements": "Commonly from home purchase or listing inspection; used to counter pre-existing condition disputes.",
+    "search_text": "H-01 Prior Inspection Reports Engineer Report All - Generic establishes pre-loss property condition to differentiate prior damage from current claim inspection type date inspector credentials findings summary pre-existing conditions comparison to current loss commonly from home purchase or listing inspection used to counter pre-existing condition disputes"
+  },
+  {
+    "id": "S-02",
+    "code": "S-02",
+    "file_name": "S-02 Third-party Contract(s).docx",
+    "document_title": "Third-Party Contacts / Contracts",
+    "group_name": "Third Party Notification",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Identifies responsible third parties and provides contractual basis for subrogation or recovery.",
+    "key_sections": [
+      "Third-party information",
+      "Relationship to loss",
+      "Contract type and terms",
+      "Liability indicators such as negligence or breach",
+      "Supporting correspondence"
+    ],
+    "notes_requirements": "Key document for subrogation; attach signed contracts, work orders, and relevant communications.",
+    "search_text": "S-02 Third-Party Contacts Contracts Third Party Notification All - Generic identifies responsible third parties and provides contractual basis for subrogation or recovery third-party information relationship to loss contract type terms liability indicators negligence breach supporting correspondence key document for subrogation attach signed contracts work orders relevant communications"
+  },
+  {
+    "id": "P-02",
+    "code": "P-02",
+    "file_name": "P-02 Assignment-of-Benefit (AoB).docx",
+    "document_title": "Assignment of Benefits (AoB)",
+    "group_name": "Third Party Notification",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Authorises insurer to issue payment directly to contractor or vendor for covered services.",
+    "key_sections": [
+      "Assignor and assignee details",
+      "Scope reference A-01",
+      "Assignment of benefits clause",
+      "Payment authorisation",
+      "Revocation terms"
+    ],
+    "notes_requirements": "Jurisdiction-specific enforceability; applies only to referenced scope; attach contractor licence.",
+    "search_text": "P-02 Assignment of Benefits AoB Third Party Notification All - Generic authorises insurer to issue payment directly to contractor or vendor for covered services assignor assignee details scope reference A-01 assignment of benefits clause payment authorisation revocation terms jurisdiction-specific enforceability applies only to referenced scope attach contractor licence"
+  },
+  {
+    "id": "C-01",
+    "code": "C-01",
+    "file_name": "C-01 Itemized-Contents-Inventory.docx",
+    "document_title": "Itemised Contents Inventory",
+    "group_name": "Contents Inventory",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Provides comprehensive list of damaged or lost contents with ACV and RCV valuations.",
+    "key_sections": [
+      "Inventory summary item count total RCV and ACV",
+      "Itemised inventory table",
+      "High-value items",
+      "Valuation method notes"
+    ],
+    "notes_requirements": "Foundation of contents claim; linked to C-02 ownership proof and C-04 repair quotes.",
+    "search_text": "C-01 Itemised Contents Inventory Contents Inventory All - Generic provides comprehensive list of damaged or lost contents with ACV and RCV valuations inventory summary item count total RCV ACV itemised inventory table high-value items valuation method notes foundation of contents claim linked to C-02 ownership proof and C-04 repair quotes"
+  },
+  {
+    "id": "C-02",
+    "code": "C-02",
+    "file_name": "C-02 Proof-Of-OwnershipValue.docx",
+    "document_title": "Proof of Ownership / Value",
+    "group_name": "Contents Inventory",
+    "claim_types": ["Wind - Hail - Weather"],
+    "purpose_description": "Validates ownership and value for high-value or disputed items in the contents claim.",
+    "key_sections": [
+      "Item details linked to C-01",
+      "Ownership proof type receipt bank statement invoice",
+      "Value evidence"
+    ],
+    "notes_requirements": "Accepted proofs include purchase receipt, credit or bank statement, online order confirmation, warranty registration.",
+    "search_text": "C-02 Proof of Ownership Value Contents Inventory Wind Hail Weather validates ownership and value for high-value or disputed items in the contents claim item details linked to C-01 ownership proof type receipt bank statement invoice value evidence accepted proofs include purchase receipt credit bank statement online order confirmation warranty registration"
+  },
+  {
+    "id": "E-02",
+    "code": "E-02",
+    "file_name": "E-02 Home-Business-Records.docx",
+    "document_title": "Home Business Records",
+    "group_name": "Contents Inventory",
+    "claim_types": ["All - Generic"],
+    "purpose_description": "Separates and validates business property under home-business endorsement for independent valuation.",
+    "key_sections": [
+      "Business property inventory",
+      "Revenue and activity details",
+      "Separation from personal property",
+      "Coverage limit check"
+    ],
+    "notes_requirements": "Used when contents claim includes business-related property under home-business endorsement.",
+    "search_text": "E-02 Home Business Records Contents Inventory All - Generic separates and validates business property under home-business endorsement for independent valuation business property inventory revenue activity details separation from personal property coverage limit check used when contents claim includes business-related property under home-business endorsement"
+  }
+]
